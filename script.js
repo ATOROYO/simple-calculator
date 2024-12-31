@@ -1,4 +1,4 @@
-// Code from line 2-29 references to the divs in the <div id="result">.
+ Code from line 2-29 references to the divs in the <div id="result">.
 function getHistory(){
     return document.getElementById("history-value").innerText;
 }
