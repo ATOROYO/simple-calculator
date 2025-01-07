@@ -2,7 +2,7 @@ body{
 	font-family: 'Open Sans',sans-serif;
 	background-color:black;
 }
-#container{
+container{
 	width: 1000px;
 	height: 550px;
 	background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(Sugar-Excipients.jpg);
